@@ -14,6 +14,7 @@ saito-navi            $HOME/navi-wordpress
 saito-faq             $HOME/navi-faq
 saito-calendar-event  $HOME/saito-calendar-event
 saito-store-locator   $HOME/saito-store-locator
+saito-mini-cart       $HOME/saito-mini-cart
 "
 
 echo "$PLUGINS" | while read -r slug repo; do
