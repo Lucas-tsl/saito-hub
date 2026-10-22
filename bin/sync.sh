@@ -15,6 +15,7 @@ saito-faq             $HOME/navi-faq
 saito-calendar-event  $HOME/saito-calendar-event
 saito-store-locator   $HOME/saito-store-locator
 saito-mini-cart       $HOME/saito-mini-cart
+saito-swatches        $HOME/saito-swatches
 "
 
 echo "$PLUGINS" | while read -r slug repo; do

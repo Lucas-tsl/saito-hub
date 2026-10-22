@@ -93,6 +93,14 @@ function saito_hub_catalog() {
 			'notion'      => 'https://www.notion.so/3ff1a86510698181bb3ec3c787c94fb2',
 			'wporg'       => '',
 		),
+		'swatches'       => array(
+			'name'        => 'Saito Swatches',
+			'description' => __( 'Swatches image, couleur ou icône pour les variations WooCommerce, prix à l\'unité et badge de rupture de stock.', 'saito-hub' ),
+			'github'      => 'https://github.com/Lucas-tsl/saito-swatches',
+			'docs'        => '',
+			'notion'      => '',
+			'wporg'       => '',
+		),
 		'mini-cart'      => array(
 			'name'        => 'Saito Mini Cart',
 			'description' => __( 'Mini-panier WooCommerce : barre de livraison gratuite, produits recommandés et boutons personnalisés.', 'saito-hub' ),
